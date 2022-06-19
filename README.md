@@ -1,8 +1,8 @@
 # Spring-106
 Spring-106
 Reverso
-2 find 3 repeat information and write two the same 
-or if after 1 number 111.
+2 find 3-16 repeat information and write two the same 
+or if after 1 number 111. 1-27 bits minus.
 E.G :
 30179c1e01285844
 D4b0ddd1004222ba2
